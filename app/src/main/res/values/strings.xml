@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BiHexText Converter</string>
+    <string-array name="conversion_options">
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+        <item>Binary</item>
+        <item>Text</item>
+    </string-array>
+</resources>
